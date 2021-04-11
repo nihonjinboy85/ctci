@@ -1,0 +1,16 @@
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci.deps.json
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci.runtimeconfig.json
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci.runtimeconfig.dev.json
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci.dll
+/home/richard/Documents/ctci/bin/Debug/net5.0/ref/ctci.dll
+/home/richard/Documents/ctci/bin/Debug/net5.0/ctci.pdb
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.csprojAssemblyReference.cache
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.AssemblyInfoInputs.cache
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.AssemblyInfo.cs
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.csproj.CoreCompileInputs.cache
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.dll
+/home/richard/Documents/ctci/obj/Debug/net5.0/ref/ctci.dll
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.pdb
+/home/richard/Documents/ctci/obj/Debug/net5.0/ctci.genruntimeconfig.cache
